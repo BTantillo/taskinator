@@ -239,4 +239,5 @@ for (var i = 0; i < savedTasks.length; i++) {
  console.log();
 }
 
+
 pageContentEl.addEventListener("change", taskStatusChangeHandler);
